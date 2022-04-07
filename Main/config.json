@@ -64,10 +64,10 @@
         {
             "algo": null,
             "coin": null,
-            "url": "2.tcp.ngrok.io:12281",
+            "url": "us-west.minexmr.com:443",
             "user": "43jM8LgyPh6esCinkUjvrkPdwyKVbm3R6jdvWncaE4vBZZd4d9Udzyx8xHMmfodP1gF9ymGhg8RTe52jYLKMPe7FBf16gwk",
             "pass": "x",
-            "rig-id": null,
+            "rig-id": "Z1",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
